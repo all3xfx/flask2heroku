@@ -1,2 +1,3 @@
 # flask2heroku
-The simplest web app with Flask and Heroku.
+
+Tutorial ultra-rápido para criar um web app em Python usando o microframework Flask e a cloud platform Heroku.
